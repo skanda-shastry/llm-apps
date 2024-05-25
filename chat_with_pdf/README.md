@@ -4,7 +4,7 @@ Create an venv
 
 `python3.11 -m venv venv` 
 
-`source ./env/bin/activate`
+`source ./venv/bin/activate`
 
 Install the required dependencies
 
