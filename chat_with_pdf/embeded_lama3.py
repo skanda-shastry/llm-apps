@@ -5,7 +5,7 @@ import streamlit as st
 from embedchain import App
 #from embedchain import Pipeline as App
 
-print(embedchain.__version__)
+#print(embedchain.__version__)
 
 # Define the embedchain_bot function
 def embedchain_bot(db_path):
